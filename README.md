@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Tzalk1985
 - 👀 I’m interested in Coding!!!
-- 🌱 I’m currently learning BootStrab, Angular 7, React 16
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular, React, Vue 
 - 📫 How to reach me k.tzallas@gmail.com
 
 <!---
