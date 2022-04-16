@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tzalk1985
-- 👀 I’m interested in Coding!!!
-- 🌱 I’m currently learning Angular, React, Vue 
+- 👀 I’m searching for entry level job for junior web developer.
+- 🌱 I’m currently learning Python
 - 📫 How to reach me k.tzallas@gmail.com
 
 <!---
