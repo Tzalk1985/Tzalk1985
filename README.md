@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tzalk1985
+- 👋 Hi, I’m Konstantinos Tzallas
 - 👀 I’m searching for entry level job for junior web developer.
 - 🌱 I’m currently learning Python
 - 📫 How to reach me k.tzallas@gmail.com
